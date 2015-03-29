@@ -1,0 +1,1 @@
+*{margin:0;padding:0}.main .game{position:relative;background-color:#eee;min-width:100px;min-height:100px;margin:20px auto}.main .game canvas{width:100%;height:100%;position:absolute;left:0;top:0}.main .game #bg-stage{z-index:0}.main .game #main-stage{z-index:1}.main .game #animation-stage{z-index:2}

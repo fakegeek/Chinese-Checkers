@@ -6,3 +6,8 @@
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+
+node_modules
+bower_components
+
+
