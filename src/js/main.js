@@ -423,6 +423,8 @@ ChineseCheckers.prototype = (function() {
       c.x = positions[44].x;
       c.y = positions[2].y;
 
+      bgStage.curr = c;
+
       bgStage.addChild(c);
       bgStage.update();
     }
