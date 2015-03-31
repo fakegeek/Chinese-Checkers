@@ -167,7 +167,7 @@ ChineseCheckers.prototype = (function() {
 	//bl
 	if(y < 7 && x > 1 && matrix[from + 16] === 0 && matrix[from + 8] > 0 && result.indexOf(from + 16) < 0) {
 	  result.push(from + 16);
-	  listJumps(matrix, from + 18);
+	  listJumps(matrix, from + 16);
 	}
 
 	//l
